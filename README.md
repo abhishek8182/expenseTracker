@@ -1,6 +1,3 @@
-Here's a `README.md` file that you can use for your GitHub project:
-
-```markdown
 # Simple Expense Tracker
 
 This project is a simple, yet effective, **Expense Tracker** to help you manage your finances. If you've ever wondered where your money goes or how you manage to spend so much, this tool is for you! This tutorial will guide you through building your own expense tracker using **HTML**, **CSS**, and **JavaScript**.
@@ -53,7 +50,7 @@ To run this project locally:
    ```bash
    git clone https://github.com/abhishek8182/expenseTracker.git
    cd expense-tracker
-   ```
+
 
 2. **Open `index.html` in your browser** to run the application.
 
