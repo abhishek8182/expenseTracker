@@ -17,7 +17,6 @@ This project is a simple, yet effective, **Expense Tracker** to help you manage 
   - [4. Enhancing the User Experience](#4-enhancing-the-user-experience)
   - [5. Testing and Debugging](#5-testing-and-debugging)
 - [Prerequisites](#prerequisites)
-- [Conclusion](#conclusion)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -62,7 +61,7 @@ No additional setup is required.
 expense-tracker/
 │
 ├── index.html
-├── styles.css
+├── style.css
 └── script.js
 ```
 
@@ -94,12 +93,6 @@ To follow along with this tutorial, it will be helpful to have:
 
 - Basic knowledge of **HTML**, **CSS**, and **JavaScript**.
 - Familiarity with **DOM manipulation** in JavaScript.
-
-But don’t worry if you’re new to web development – we’ll walk through every step in detail.
-
-## Conclusion
-
-By the end of this tutorial, you’ll have a fully functional expense tracker that you can use to monitor your income and expenses. This project also provides practical experience with front-end development, making it a great way to improve your skills.
 
 ## Contributing
 
